@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 /**
  * @Title: TokenUtil.java
  * @Description: token的工具类，此处不深入
- * @author zhaorx E-Mail:v-zhaorx04@vanke.com
+ * @author zhaorx 
  * @date 2019年1月16日 下午4:52:08
  */
 public class TokenUtils {
